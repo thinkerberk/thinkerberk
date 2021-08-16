@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thinkerberk
-- 👀 I’m interested in Software Programming and Game Devoloping.
+- 👀 I’m interested in Software Programming and Game Developing.
 - 🌱 I’m currently learning data analysis with Python
 - 📫 You can reach me at berkag@gmail.com.
 
